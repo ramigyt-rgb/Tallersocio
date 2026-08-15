@@ -1,0 +1,3 @@
+taller_os_data.json
+*.pyc
+__pycache__
